@@ -21,5 +21,6 @@ presumably to make data analysis easier. The translations of these codes are
 given in separate data frames. In order to make the final frame more readable 
 for the human eye, the main function of this project takes the main csv file 
 and the metadata csv file(s) and returns a new decoded data frame. The code was
-tested on two examples taken from the open data portal of Statistik Austria.
+tested on two examples taken from the open data portal of Statistik Austria. The 
+programming language used is R.
 

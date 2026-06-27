@@ -1,0 +1,16 @@
+code;name;en_name;;;;;;;
+C-A10-0;Zeit;Year;;;;;;;
+C-WIRT0-0;Wirtschaftszweig;Economic branch;;;;;;;
+F-SO2;SO2 (in Tonnen);SO2 (in tons);;;;;;;
+F-NOX;NOx (in Tonnen);NOx (in tons);;;;;;;
+F-NMVOC;NMVOC (in Tonnen);NMVOC (in tons);;;;;;;
+F-CH4;CH4 (in Tonnen);CH4 (in tons);;;;;;;
+F-COWERT;CO (in Tonnen);CO (in tons);;;;;;;
+F-CO2INSG;CO2 insgesamt (in 1 000 Tonnen);CO2 overall (in 1 000 tons);;;;;;;
+F-CO2FOSS;CO2 aus fossilen Quellen (in 1 000 Tonnen);CO2 from fossil resources (in 1 000 tons);;;;;;;
+F-CO2BIOG;CO2 aus biogenen Quellen (in 1 000 Tonnen);CO2 from biogeneous resources (in 1 000 tons);;;;;;;
+F-CO2SONS;CO2 aus sonstigen Quellen (in 1 000 Tonnen);CO2 from other sources (in 1 000 tons);;;;;;;
+F-N2O;N2O (in Tonnen);N2O (in tons);;;;;;;
+F-NH3;NH3 (in Tonnen);NH3 (in tons);;;;;;;
+F-PM10;PM10 (in Tonnen);PM10 (in tons);;;;;;;
+F-PM25;PM2.5 (in Tonnen);PM2.5 (in tons);;;;;;;

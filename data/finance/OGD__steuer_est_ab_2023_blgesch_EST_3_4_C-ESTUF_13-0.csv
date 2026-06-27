@@ -1,0 +1,14 @@
+code;name;;en_name;de_desc;de_link;en_desc;en_link;de_syn;en_syn
+01;bis unter 4;;Up to less than 4;;;;;;
+02;4 bis unter 6;;4 up to less than 6;;;;;;
+03;6 bis unter 8;;6 up to less than 8;;;;;;
+04;8 bis unter 10;;8 up to less than 10;;;;;;
+05;10 bis unter 15;;10 up to less than 15;;;;;;
+06;15 bis unter 20;;15 up to less than 20;;;;;;
+07;20 bis unter 25;;20 up to less than 25;;;;;;
+08;25 bis unter 30;;25 up to less than 30;;;;;;
+09;30 bis unter 40;;30 up to less than 40;;;;;;
+10;40 bis unter 50;;40 up to less than 50;;;;;;
+11;50 bis unter 70;;50 up to less than 70;;;;;;
+12;70 bis unter 100;;70 up to less than 100;;;;;;
+13;100 und mehr;;100 and more;;;;;;
